@@ -9,7 +9,7 @@
   },
   "author": "Tujit Bora <tujitbora4@gmail.com>",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^28.1.3"
   }
 }
