@@ -1,6 +1,6 @@
 {
   "name": "test-app-npm-publish-poc",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "",
   "main": "dist/src/app.js",
   "types": "dist/src/app.d.ts",
