@@ -2,7 +2,8 @@
   "name": "test-app-npm-publish-poc",
   "version": "3.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "dist/src/app.js",
+  "types": "dist/src/app.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest --coverage"
