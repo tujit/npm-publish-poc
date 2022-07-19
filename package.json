@@ -4,12 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "build": "tsc",
     "test": "jest --coverage"
   },
   "author": "Tujit Bora <tujitbora4@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.3"
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
   }
 }
