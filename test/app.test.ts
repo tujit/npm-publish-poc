@@ -1,5 +1,10 @@
-import { App } from "../src/app"
+import { Sum } from "../src/Sum";
+import { Multiply } from "../src/Multiply";
 
-test('1 + 2 = 3', () => {
-  expect(App.sumTwoNumber(1,2)).toBe(3);
+test('addition', () => {
+  expect(Sum.sumTwoNumber(1,2)).toBe(3);
+});
+
+test('multiplication', () => {
+  expect(Multiply.multiplyTwoNum(1,2)).toBe(2);
 });

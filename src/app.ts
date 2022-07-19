@@ -1,7 +1,4 @@
-class App  {
-  static sumTwoNumber = (firstNumber: number, secondNumber: number)  =>{
-    return firstNumber + secondNumber;
-  }
-}
+import {Sum} from "./Sum"
+import {Multiply} from "./Multiply"
 
-export { App };
+export { Sum, Multiply };
