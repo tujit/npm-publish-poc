@@ -27,6 +27,8 @@ jobs:
           node-version: 14
           registry-url: https://registry.npmjs.org/
       - run: npm i -g @semantic-release/changelog @semantic-release/git @semantic-release/github @semantic-release/commit-analyzer @semantic-release/release-notes-generator semantic-release
+      - run: npm ci
+      - run: npm run build
       - run: semantic-release
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
