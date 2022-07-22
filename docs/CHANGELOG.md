@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tujit/npm-publish-poc/compare/v1.0.0...v1.0.1) (2022-07-22)
+
+
+### Bug Fixes
+
+* don't publish to npm registry ([4aeafc2](https://github.com/tujit/npm-publish-poc/commit/4aeafc2f0bd7ad6f369f3f353cb4b46676bd134e))
+
 # 1.0.0 (2022-07-22)
 
 
