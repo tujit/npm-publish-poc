@@ -1,3 +1,10 @@
+# [11.3.0](https://github.com/tujit/npm-publish-poc/compare/v11.2.0...v11.3.0) (2022-07-22)
+
+
+### Features
+
+* single action ([736bd68](https://github.com/tujit/npm-publish-poc/commit/736bd684e1ccd6cf7bebd86a3d3c8007df24ee24))
+
 # [11.2.0](https://github.com/tujit/npm-publish-poc/compare/v11.1.0...v11.2.0) (2022-07-22)
 
 
