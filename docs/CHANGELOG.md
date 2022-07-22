@@ -1,3 +1,10 @@
+# [11.2.0](https://github.com/tujit/npm-publish-poc/compare/v11.1.0...v11.2.0) (2022-07-22)
+
+
+### Features
+
+* build before publish ([6afc7b3](https://github.com/tujit/npm-publish-poc/commit/6afc7b3e3374cd517a9dd5d07367f53caec04464))
+
 # [11.1.0](https://github.com/tujit/npm-publish-poc/compare/v11.0.1...v11.1.0) (2022-07-22)
 
 
