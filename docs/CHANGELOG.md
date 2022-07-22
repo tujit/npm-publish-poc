@@ -1,3 +1,11 @@
+## [11.0.1](https://github.com/tujit/npm-publish-poc/compare/v11.0.0...v11.0.1) (2022-07-22)
+
+
+### Bug Fixes
+
+* fix space ([a4e602e](https://github.com/tujit/npm-publish-poc/commit/a4e602e22dda95ca289365509afb9533e1a1895e))
+* publish after manual tag ([c55623a](https://github.com/tujit/npm-publish-poc/commit/c55623a1c9ca6be4cd279c291ab6a64461f6f2a8))
+
 ## [1.0.1](https://github.com/tujit/npm-publish-poc/compare/v1.0.0...v1.0.1) (2022-07-22)
 
 
