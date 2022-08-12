@@ -1,3 +1,10 @@
+## [11.3.1](https://github.com/tujit/npm-publish-poc/compare/v11.3.0...v11.3.1) (2022-08-12)
+
+
+### Bug Fixes
+
+* test to check github access ([6d81ce0](https://github.com/tujit/npm-publish-poc/commit/6d81ce021c90db4947fab327ac356c961f641f6a))
+
 # [11.3.0](https://github.com/tujit/npm-publish-poc/compare/v11.2.0...v11.3.0) (2022-07-22)
 
 
